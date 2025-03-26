@@ -50,7 +50,7 @@ penguin-mlops/
   - Train/test splits (`MODEL_TRAINING_SETS`)
   - Evaluation results over time (`MODEL_EVALUATIONS`)
 
-![Schema](images/schema_new.png)
+![Schema](images/schema_new.PNG)
 
 
 ---
